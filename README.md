@@ -16,5 +16,5 @@ I Used Google Colab As My Environment
 
 4- Then Upload Notebook
 
-5- Then Choose The Downloaded Notebook With Name "BD_Assesment-Worex"
+5- Then Choose The Downloaded Notebook With Name "BD_Assessment-Worex"
 
